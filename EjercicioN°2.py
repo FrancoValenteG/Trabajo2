@@ -1,18 +1,22 @@
 import random
 
-a = ['A','E','I','O','U','X','Y','Z']
-b = ["1","2","3","4","5","6","7","8"]
-c = ['b','c','d','f','g','h','j','k']
-
+a = ['1611','1688','2659','1613','1613','1628','1562','1111',"1613","1658"]
+b = ["Lorena","Fernando","Mariana","Máximo","Daniel","Ariel","Cristina","Santiago","Carlos","Iván"]
+c = ['Pérez','Espinosa','Naniz','Fernández','Lancha','Negro','Vholve','Father',"Enrique","Enrique"]
+e = [1,23,11,58,74,6,42,99,28,63]
 lista=[]
 aux=[]
-
-def listarandom(a,b,c):
-    for d in range(0,8):
-        aux=a[d]+b[d]+c[d]
+edad16=[16]
+edad65=[65]
+def listaDNI(a,b,c,e):
+    for d in range(0,10):
+        edadsiono=[]
+        if e <= edad16 or e >= edad65:
+            edadsiono="No apto"
+        else:
+            edadsiono="Apto"
+        aux="DNI : "+a[d]+" : "+"\\"+edadsiono+"\\"+" "+c[d]+" "+b[d]
         lista.append(aux)
         random.shuffle(lista)
     return lista
-print(listarandom(a,b,c))
-
-
+print(listaDNI(a,b,c,e))
