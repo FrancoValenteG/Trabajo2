@@ -1,3 +1,14 @@
+import random
+items=["colores","paises","animales"]
+colores=["rojo","azul","amarillo","negro","blanco","celeste","verde","rosa"]
+paises=["argentina","uruguay","brasil","cuba","venezuela","rusia","rui","albania"]
+animales=["araña","mono","jirafa","gato","perro","jabali","elefante","pez","cocodrilo","rinoceronte","caballo","armadillo"]
+listaDeTodo=[colores,paises,animales]
+letra="a"
+lista0=[]
+lista1=[]
+lista2=[]
+salida=[]
 def juegaCompu(listaDeTodo):
     for elemento in listaDeTodo[0]:
             if elemento[0]==letra:
