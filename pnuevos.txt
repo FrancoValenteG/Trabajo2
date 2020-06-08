@@ -1,18 +1,24 @@
-def juegaCompu(letraAzar, listaDeTodo):
+def juegaCompu(listaDeTodo):
     for elemento in listaDeTodo[0]:
-        if elemento[0]==letra:
-            lista0.append(elemento)
+            if elemento[0]==letra:
+                lista0.append(elemento)
+            else:
+                salida.append("")
     for elemento in listaDeTodo[1]:
             if elemento[0]==letra:
                 lista1.append(elemento)
+            else:
+                salida.append("")
     for elemento in listaDeTodo[2]:
             if elemento[0]==letra:
                 lista2.append(elemento)
-    else:
-            print("No hay")
+            else:
+                salida.append("")
     azar=random.choice(lista0)
     azar1=random.choice(lista1)
     azar2=random.choice(lista2)
-    print(azar)
-    print(azar1)
-    print(azar2)
+    salida.append(azar)
+    salida.append(azar1)
+    salida.append(azar2)
+    return(salida)
+print(juegaCompu(listaDeTodo))
