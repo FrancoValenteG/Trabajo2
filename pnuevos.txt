@@ -1,23 +1,18 @@
-honduras
-hungria
-indonesia
-italia
-islandia
-irlanda
-jordania 
-japon
-jamaica
-kenia 
-kosovo 
-kuwait
-laos
-letonia
-mali
-malasia
-macedonia
-namibia
-nepal 
-nigeria
-oman
-rusia
-china
+def juegaCompu(letraAzar, listaDeTodo):
+    for elemento in listaDeTodo[0]:
+        if elemento[0]==letra:
+            lista0.append(elemento)
+    for elemento in listaDeTodo[1]:
+            if elemento[0]==letra:
+                lista1.append(elemento)
+    for elemento in listaDeTodo[2]:
+            if elemento[0]==letra:
+                lista2.append(elemento)
+    else:
+            print("No hay")
+    azar=random.choice(lista0)
+    azar1=random.choice(lista1)
+    azar2=random.choice(lista2)
+    print(azar)
+    print(azar1)
+    print(azar2)
