@@ -41,18 +41,18 @@ def juegaCompu(letraAzar,listaDeTodo):
     for elemento in listaDeTodo[0]:
             if elemento[0]==letra:
                 lista0.append(elemento)
-            else:
-                salida.append("")
+    if len(lista0)==0:
+        lista0.append("")
     for elemento in listaDeTodo[1]:
             if elemento[0]==letra:
                 lista1.append(elemento)
-            else:
-                salida.append("")
+    if len(lista1)==0:
+        lista1.append("")
     for elemento in listaDeTodo[2]:
             if elemento[0]==letra:
                 lista2.append(elemento)
-            else:
-                salida.append("")
+    if len(lista2)==0:
+        lista2.append("")
     azar=random.choice(lista0)
     azar1=random.choice(lista1)
     azar2=random.choice(lista2)
@@ -83,7 +83,7 @@ def listatotal():
     f.close()
     return(paises)
 
-print(listatotal())
+##print(listatotal())
 
 
 
