@@ -1,0 +1,259 @@
+sujumi
+episkopi
+kabul
+tirana
+berlin
+stepanakert
+andorra la vieja
+luanda
+el valle
+saint john
+riad
+argel
+buenos aires
+erevan
+oranjestad
+canberra
+viena
+baku
+nasau
+daca
+bridgetown
+manama
+bruselas
+belmopan
+porto novo
+cotonu
+hamilton
+minsk
+naipyido
+timbu
+sucre
+la paz
+sarajevo
+gaborone
+brasilia
+bandar seri begawan
+sofia
+uagadugu
+gitega
+buyumbura
+praia
+george town
+nom pen
+yaunde
+ottawa
+doha
+yamena
+santiago
+valparaiso
+pekin
+nicosia
+nicosia del norte
+west island
+bogota
+moroni
+kinsasa
+brazzaville
+avarua
+pionyang
+seul
+zagreb
+yamusukro
+abiyan
+san jose
+la habana
+willemstad
+copenhague
+roseau
+quito
+el caito
+san salvador
+abu dabi
+asmara
+bratislava
+liubliana
+madrid
+washington dc
+tallin
+adis abeba
+torshavn
+manila
+helsinki
+suva
+paris
+libreville
+banjul
+tiflis
+acra
+gibraltar
+saint george
+atenas
+nuuk
+agana
+ciudad de guatemala
+cayena
+saint peter port
+conakri
+bisau
+malabo
+georgetown
+puerto principe
+tegucigalpa
+budacepst
+nueva delhi
+yakarta
+bagdad
+teheran
+dublin
+reikiavik
+jerusalen
+roma
+kingston
+tokio
+saint helier
+aman
+astana
+nairobi
+biskek
+tarawa
+pristina
+ciudad de kuwait
+vientian
+maseru
+riga
+beirut
+monrovia
+tripoli
+vaduz
+vilna
+ciudad de luxemburgo
+skopie
+antananarivo
+kuala lumpur
+putrajaya
+lilongue
+male
+bamako
+la valeta
+puerto stanley
+douglas
+saipan
+rabat
+majuro
+nuakchot
+port louis
+ciudad de mexico
+palikir
+chisinau
+ciudad de monaco
+ulan bator
+pogdorica
+cetina
+brades
+maputo
+windhoek
+yaren
+the settlement
+katmandu
+managua
+niamey
+abuya
+alofi
+kingston
+oslo
+numea
+wellingot
+mascate
+tsjinval
+amsterdan
+la haya
+islamabad
+melekeok
+ngerulmud
+gaza
+jesuralen este
+ramala
+ciudad de panama
+puerto moresby
+asuncion
+lima
+adamstown
+papeete
+varsovia
+lisboa
+san juan
+londres
+bangui
+praga
+brno
+santo domingo
+kigali
+bucarest
+moscu
+el aaiun
+tifariti
+honiara
+apia
+pago pago
+gustavia
+basseterre
+ciudad de san marino
+marigot
+philipsburg
+san pedro
+jamestown
+castries
+santo tome
+kingstown
+dakar
+belgrado
+victoria
+freetown
+ciudad de singapur
+damasco
+mogadiscio
+hargeisa
+colombo
+sri jayawardenapura kotte
+lobamba
+mbabane
+pretoria
+ciudad del cabo
+bloemfontein
+jartum
+yuba
+estocolmo
+berna
+paramaribo
+longyearbyen
+bangkok
+taipei
+dodoma
+dar es salam
+dusambe
+dili
+lome
+nukualofa
+tiraspol
+puerto espana
+ciudad de tunez
+cocburn town
+asjabad
+ankara
+funafuti
+kiev
+kampala
+montevideo
+taskent
+port vila
+ciudad del vaticano
+caracas
+hanoi
+road town
+charlotte amalie
+mata utu
+sana
+ciudad de yibuti
+lusaka
+harare
