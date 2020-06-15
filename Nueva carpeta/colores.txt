@@ -1,0 +1,554 @@
+azul
+amarillo
+blanco
+beige
+celeste
+cian
+dorado
+esmeralda
+fucsia
+granate
+gris
+jade
+lila
+magenta
+marron
+naranja
+negro
+rojo
+rosa
+turquesa
+uva
+verde
+violeta
+yeso
+zincrojo 
+colorado 
+carmesi
+rubi, 
+frutilla
+bermellon 
+escarlata
+granate
+burdeos
+carmin
+amaranto
+verde
+chartreuse
+verde Kelly 
+esmeralda, 
+verde agua, 
+verdeagua, 
+agua marina
+xanadu
+jade
+verde verones
+arlequin
+esparrago
+verde oliva
+verde cazador
+verde militar
+azul
+azul cobalto
+azul marino
+azul petroleo
+azur
+azul francia
+zafiro
+anil
+indigo
+turqui
+azul de Prusia
+azul majorelle
+azul Klein
+azul acero claro
+magenta
+fucsia
+morado
+malva
+lila
+salmon
+lavanda
+rosa
+cian
+turquesa
+celeste
+ceruleo
+aguamarina
+menta
+amarillo
+amarillo limon
+lima
+oro
+dorado
+ambar
+amarillo indio
+topacio
+amarillo selectivo
+marron
+pardo
+cafe
+chocolate
+castano
+caqui
+ocre
+siena
+siena palido
+borgona
+violeta
+lavanda floral
+amatista
+purpura
+purpura de tiro
+naranja
+cara de luz
+zanahoria
+sesamo
+albaricoque
+beis
+beige
+durazno
+piel
+blanco
+nieve
+nieve blanca
+lino
+hueso
+marfil
+plata
+plateado
+zinc
+gris
+negro
+granate
+caoba
+rojo indio
+rojo naranja
+viridian
+esmeralda
+verde palta
+chartreuse
+canela
+cobre
+lacre
+bigaro
+aciano
+te verde
+melon
+durazno
+coral
+vino
+fandango
+almagro
+alabastro
+almendra
+almendra palido
+amarillo de cromo
+amarillo de quinoleina
+amarillo ocaso
+amarillo crepusculo
+amarillo verdoso
+amatista
+ambrosia
+ampo
+annato
+bija
+argen
+luna
+luna
+perla
+arsenico
+azafran
+azul alicia
+azul bondi
+azul cadete
+azul egipcio
+azul maya
+azul real
+azul sulfan
+bermellon
+rojo china
+blanco de espana
+calabaza
+canario
+canelo
+caramelo
+cardo
+carmin de alizarina
+carmin
+castor
+cinzolino
+crudo
+crema
+denim
+diente de leon
+amargamiel
+fresa
+frambuesa
+frutilla
+gamboge
+gris plomo
+gris pizarra
+gris oscuro
+gris de payne
+gris antracita
+helecho
+gules
+leonado
+madera
+maiz
+magnolia
+mandarina
+mielrojo 
+colorado 
+carmesi
+rubi, 
+frutilla
+bermellon 
+escarlata
+granate
+burdeos
+carmin
+amaranto
+verde
+chartreuse
+verde Kelly 
+esmeralda, 
+verde agua, 
+verdeagua, 
+agua marina
+xanadu
+jade
+verde verones
+arlequin
+esparrago
+verde oliva
+verde cazador
+verde militar
+azul
+azul cobalto
+azul marino
+azul petroleo
+azur
+azul francia
+zafiro
+anil
+indigo
+turqui
+azul de Prusia
+azul majorelle
+azul Klein
+azul acero claro
+magenta
+fucsia
+morado
+malva
+lila
+salmon
+lavanda
+rosa
+cian
+turquesa
+celeste
+ceruleo
+aguamarina
+menta
+amarillo
+amarillo limon
+lima
+oro
+dorado
+ambar
+amarillo indio
+topacio
+amarillo selectivo
+marron
+pardo
+cafe
+chocolate
+castano
+caqui
+ocre
+siena
+siena palido
+borgona
+violeta
+lavanda floral
+amatista
+purpura
+purpura de tiro
+naranja
+cara de luz
+zanahoria
+sesamo
+albaricoque
+beis
+beige
+durazno
+piel
+blanco
+nieve
+nieve blanca
+lino
+hueso
+marfil
+plata
+plateado
+zinc
+gris
+negro
+granate
+caoba
+rojo indio
+rojo naranja
+viridian
+esmeralda
+verde palta
+chartreuse
+canela
+cobre
+lacre
+bigaro
+aciano
+te verde
+melon
+durazno
+coral
+vino
+fandango
+almagro
+alabastro
+almendra
+almendra palido
+amarillo de cromo
+amarillo de quinoleina
+amarillo ocaso
+amarillo crepusculo
+amarillo verdoso
+amatista
+ambrosia
+ampo
+annato
+bija
+argen
+luna
+perla
+arsenico
+azafran
+azul alicia
+azul bondi
+azul cadete
+azul egipcio
+azul maya
+azul real
+azul sulfan
+bermellon
+rojo china
+blanco de espana
+calabaza
+canario
+canelo
+caramelo
+cardo
+carmin de alizarina
+carmin
+castor
+cinzolino
+crudo
+crema
+denim
+diente de leon
+amargamiel
+fresa
+frambuesa
+frutilla
+gamboge
+gris plomo
+gris pizarra
+gris oscuro
+gris de payne
+gris antracita
+helecho
+gules
+leonado
+madera
+maiz
+magnolia
+mandarina
+mielrojo 
+colorado 
+carmesi
+rubi, 
+frutilla
+bermellon 
+escarlata
+granate
+burdeos
+carmin
+amaranto
+verde
+chartreuse
+verde Kelly 
+esmeralda, 
+verde agua, 
+verdeagua, 
+agua marina
+xanadu
+jade
+verde verones
+arlequin
+esparrago
+verde oliva
+verde cazador
+verde militar
+azul
+azul cobalto
+azul marino
+azul petroleo
+azur
+azul francia
+zafiro
+anil
+indigo
+turqui
+azul de Prusia
+azul majorelle
+azul Klein
+azul acero claro
+magenta
+fucsia
+morado
+malva
+lila
+salmon
+lavanda
+rosa
+cian
+turquesa
+celeste
+ceruleo
+aguamarina
+menta
+amarillo
+amarillo limon
+lima
+oro
+dorado
+ambar
+amarillo indio
+topacio
+amarillo selectivo
+marron
+pardo
+cafe
+chocolate
+castano
+caqui
+ocre
+siena
+siena palido
+borgona
+violeta
+lavanda floral
+amatista
+purpura
+purpura de tiro
+naranja
+cara de luz
+zanahoria
+sesamo
+albaricoque
+beis
+beige
+durazno
+piel
+blanco
+nieve
+nieve blanca
+lino
+hueso
+marfil
+plata
+plateado
+zinc
+gris
+negro
+granate
+caoba
+rojo indio
+rojo naranja
+viridian
+esmeralda
+verde palta
+chartreuse
+canela
+cobre
+lacre
+bigaro
+aciano
+te verde
+melon
+durazno
+coral
+vino
+fandango
+almagro
+alabastro
+almendra
+almendra palido
+amarillo de cromo
+amarillo de quinoleina
+amarillo ocaso
+amarillo crepusculo
+amarillo verdoso
+amatista
+ambrosia
+ampo
+annato
+bija
+argen
+luna
+perla
+arsenico
+azafran
+azul alicia
+azul bondi
+azul cadete
+azul egipcio
+azul maya
+azul real
+azul sulfan
+bermellon
+rojo china
+blanco de espana
+calabaza
+canario
+canelo
+caramelo
+cardo
+carmin de alizarina
+carmin
+castor
+cinzolino
+crudo
+crema
+denim
+diente de leon
+amargamiel
+fresa
+frambuesa
+frutilla
+gamboge
+gris plomo
+gris pizarra
+gris oscuro
+gris de payne
+gris antracita
+helecho
+gules
+leonado
+madera
+maiz
+magnolia
+mandarina
+miel
